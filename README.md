@@ -18,7 +18,6 @@ Each component below links to a dedicated Markdown file explaining the **analyti
 - 👥 **[Customer Dashboard – Behaviour & Value](PLACEHOLDER_customer_dashboard.md)**
 - 📊 **[Customer Distribution by Number of Orders](PLACEHOLDER_customer_distribution.md)**
 - 🏆 **[Top Ten Customers Analysis](PLACEHOLDER_top_ten_customers.md)**
-
 ---
 
 ## Analytical Framework
