@@ -10,7 +10,6 @@ The work spans **requirements definition, KPI design, analytical logic, interact
 ## Project Overview
 This project delivers an **end-to-end Tableau analytics solution** designed to support business stakeholders with clear, actionable insight.  
 The work spans **requirements definition, KPI design, analytical logic, interactivity, and UX-driven dashboard layout**, to ensure outputs are decision ready.
-
 ---
 
 ## Project Components (Click to Explore)
