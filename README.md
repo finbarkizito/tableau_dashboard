@@ -15,7 +15,7 @@ Each component below links to a dedicated Markdown file explaining the **analyti
 
 - 📈 **[Sales Dashboard – Performance & Trends](sales/sales_dashboard.md)**
 - 👥 **[Customer Dashboard – Behaviour & Value](customers/customer-dasboard.md)**
-- 📊 **[Customer Distribution by Number of Orders](PLACEHOLDER_customer_distribution.md)**
+- 📊 **[Customer Distribution by Number of Orders](customers/customer_distribution.md)**
 - 🏆 **[Top Ten Customers Analysis](PLACEHOLDER_top_ten_customers.md)**
 ---
 
