@@ -28,15 +28,14 @@ The analysis follows a consistent **Dimensions vs Measures** framework to ensure
 - Scalability across dashboards
 
 ---
-
 ## Live Dashboard Access
 
-🔗 **Tableau Public (Interactive Dashboards):**  
-`[PLACEHOLDER – insert Tableau Public profile or dashboard link here]`
+🔗 **[Tableau Public (Interactive Dashboards)](https://public.tableau.com/app/profile/finbar.kizito/vizzes)**
 
-> Dashboards can be explored interactively, including full filtering, navigation, and tooltip functionality.
+> Explore this dashboard interactively, including full filtering, navigation, and tooltip functionality.
 
 ---
+
 
 ## Dashboard Preview
 
