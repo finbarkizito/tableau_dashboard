@@ -1,4 +1,4 @@
-# Tableau Sales & Customer Analytics Dashboard
+# End To End Tableau Business Intelligence Project 
 
 > 📊 **Interactive business intelligence dashboards built in Tableau with a strong focus on analytical design, interactivity, and insight extraction.**
 
