@@ -5,8 +5,7 @@
 
 ## 📊 Dashboard Preview
 
-> **⬇️ Insert Dashboard Screenshot Below ⬇️**  
-> *(Replace this placeholder with an image of the final Tableau dashboard)*
+[Dashboard Preview](path/to/image.png)
 
 <!-- DASHBOARD IMAGE PLACEHOLDER -->
 <!-- Replace the line below with: ![Dashboard Preview](path/to/image.png) -->
