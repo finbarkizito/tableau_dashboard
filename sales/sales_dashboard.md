@@ -5,7 +5,7 @@
 
 ## 📊 Dashboard Preview
 
-[Dashboard Preview](images/customer_dashboard.png)
+[Dashboard Preview](images/customer-dashboard.png)
 
 <!-- DASHBOARD IMAGE PLACEHOLDER -->
 <!-- Replace the line below with: ![Dashboard Preview](path/to/image.png) -->
