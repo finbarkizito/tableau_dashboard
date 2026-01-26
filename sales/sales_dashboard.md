@@ -2,13 +2,14 @@
 **Analytical Approach & Technical Implementation**
 
 ---
+
 ## 📊 Dashboard Preview
 
 > **⬇️ Insert Dashboard Screenshot Below ⬇️**  
 > *(Replace this placeholder with an image of the final Tableau dashboard)*
 
-```text
-[ DASHBOARD IMAGE PLACEHOLDER ]
+<!-- DASHBOARD IMAGE PLACEHOLDER -->
+<!-- Replace the line below with: ![Dashboard Preview](path/to/image.png) -->
 
 ---
 ## 1. Business Problem & Objectives
