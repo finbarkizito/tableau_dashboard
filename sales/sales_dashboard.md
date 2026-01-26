@@ -2,7 +2,15 @@
 **Analytical Approach & Technical Implementation**
 
 ---
+## 📊 Dashboard Preview
 
+> **⬇️ Insert Dashboard Screenshot Below ⬇️**  
+> *(Replace this placeholder with an image of the final Tableau dashboard)*
+
+```text
+[ DASHBOARD IMAGE PLACEHOLDER ]
+
+---
 ## 1. Business Problem & Objectives
 The goal of this dashboard is to enable stakeholders to analyse **Year-over-Year (YoY) sales performance** in a dynamic and interactive way. The dashboard supports:
 
