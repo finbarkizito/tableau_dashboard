@@ -66,7 +66,7 @@ This project enables stakeholders to:
 
 - **Dynamic Year Selection**
   - Any year can be treated as the “current” year
-  - All KPIs and trends update automatically
+  - All KPIs and trends will then update automatically
 
 - **Dashboard Navigation**
   - Icon-based navigation between analytical views
