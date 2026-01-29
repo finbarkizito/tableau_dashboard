@@ -40,14 +40,14 @@ The analysis follows a consistent **Dimensions vs Measures** framework to ensure
 ## Dashboard Preview
 
 ### Sales Dashboard
-📌 *Overview of sales performance, trends, and product contribution*
+*Overview of sales performance, trends, and product contribution*
 
 ![Sales Dashboard – Full View](images/sales_dashboard_full.png)
 
 ---
 
 ### Customer Dashboard
-📌 *Analysis of customer behaviour, distribution, and value contribution*
+*Analysis of customer behaviour, distribution, and value contribution*
 
 ![Customer Dashboard – Full View](images/customer_dashboard_full.png)
 
