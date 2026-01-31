@@ -86,5 +86,5 @@ The table acts as a **primary drill-down control** for the dashboard.
 3. Clicks a customer to assess buying patterns and seasonality
 4. Compares **Sales vs Profit** to detect margin erosion from discounts
 
-This visual supports targeted retention, proactive account management, and profit optimisation.
+This visual supports targeted retention and proactive account management.
 
